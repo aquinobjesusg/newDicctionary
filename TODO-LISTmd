@@ -21,9 +21,6 @@
 - Al hacer login validar el correo electronico con el correo recibido
 
 
-## Landing paga
-- Crear una pagina de promocion del diccionrio con sus beneficios y virtudes y planes de pago
-
 ## Pasarela de pago
 - Montar la pasarela de pago de SysPagos
 - Habilitar el boton de pago para el landing page
